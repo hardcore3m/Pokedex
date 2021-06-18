@@ -9,14 +9,11 @@ Javascript, Html, Css
 
 ## Origem
 
-[Roger Melo](https://www.youtube.com/watch?v=Uptu3NrBFBM&list=PLpSJMw6H4PFMOJHMULTxKNOEw7g1cBuyP&index=2&t=85s)
+[Canal Roger Melo](https://www.youtube.com/watch?v=Uptu3NrBFBM&list=PLpSJMw6H4PFMOJHMULTxKNOEw7g1cBuyP&index=2&t=85s)
 
 ## Minhas redes sociais
 
-[GitHub](https://github.com/hardcore3m)  
-[Linkedin](http://br.linkedin.com/in/rrmarins)
-[Digital Innovation One](https://web.digitalinnovation.one/users/rafaelmarins)
-[Replit](https://replit.com/@hardcore3m)
+[GitHub](https://github.com/hardcore3m)  | [Linkedin](http://br.linkedin.com/in/rrmarins) | [Digital Innovation One](https://web.digitalinnovation.one/users/rafaelmarins) | [Replit](https://replit.com/@hardcore3m)
 
 ## Onde aprender a desenvolver gratuitamente
 

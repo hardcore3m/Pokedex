@@ -1,7 +1,6 @@
-# Nome do projeto
+# Criando uma pokedex
 
-Criando Uma Pokedéx
-Descrição do projeto
+Criação de uma aplicação de request de api.
 
 ## Linguagens, Bibliotecas e Frameworks
 
